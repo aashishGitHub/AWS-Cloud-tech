@@ -1,7 +1,13 @@
+reference materials https://github.com/in28minutes/course-material/blob/main/03-aws-certified-developer-associate/downloads.md
+
+
 
 # AWS Essentials — Easy-to-Miss Interview Questions
 
 > Simple Q&A for new learners. Each answer links back to the relevant section in [transcripts-formatted.md](transcripts-formatted.md).
+>
+> Looking for architecture-level questions (HA design, KMS, serverless, CI/CD, cost, DR)?
+> See [senior-interview-questions.md](senior-interview-questions.md).
 
 ---
 
